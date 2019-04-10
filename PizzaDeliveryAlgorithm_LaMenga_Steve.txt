@@ -1,0 +1,5 @@
+1. Order pizza
+2. Pay for pizza
+3. Wait for pizza
+4. Pay for pizza
+5. Eat the pizza
